@@ -7,13 +7,14 @@
 
 Linux Deep Dive: Linux Journey + Bash scripting basics.
 Networking Fundamentals: Cisco NetAcad — Networking Basics + Introduction to Networks.
+Основы TCP/IP, OSI, DNS, HTTP/HTTPS, ARP.
 Python Intro: Automate the Boring Stuff with Python — главы 1–12.
 Практика: OverTheWire Bandit.
 Цель: Комфорт в терминале, понимание сетей.
 
 # Месяц 2: Введение в Cybersecurity + Hands-on
 
-Основной курс: Google Cybersecurity Professional Certificate (Coursera, audit бесплатно) — Module 1–4.
+Основной курс: Google Cybersecurity Professional Certificate (Coursera, audit бесплатно).
 TryHackMe: Pre Security path + Intro to Cyber Security.
 Дополнительно: Cisco Introduction to Cybersecurity (бесплатно на NetAcad).
 Практика: TryHackMe rooms (OWASP Top 10 basics, Nmap).
@@ -36,12 +37,11 @@ Offensive/Defensive: TryHackMe — Jr Penetration Tester path или Blue Team f
 Cloud Basics: Microsoft Learn Security paths (бесплатно) или AWS free tier security labs.
 Практика: CTF на HackTheBox / PicoCTF.
 
-# Месяц 6: Портфолио, Продвинутые темы + Подготовка к поступлению
+# Месяц 6: Портфолио + Продвинутые темы
 
 Портфолио: 5–7 проектов на GitHub (CTF write-ups, home lab guide, web vuln reports).
 Дополнительно: Burp Suite Academy (free) + Malware basics (на TryHackMe).
 Сертификаты: Завершить Google Cert + ISC2 CC.
-Для вуза: IELTS prep (если нужно) + черновик SOP.
 Проекты: Собственный vulnerable lab + documentation; участие в 1–2 онлайн CTF.
 
 Рекомендуемые платформы (все с free tier):
